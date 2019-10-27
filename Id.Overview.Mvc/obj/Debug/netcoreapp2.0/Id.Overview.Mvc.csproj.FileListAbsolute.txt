@@ -1,0 +1,12 @@
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.deps.json
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.json
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\bin\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.dll
+C:\Users\Lucas\source\repos\IdentityOverview\Id.Overview.Mvc\obj\Debug\netcoreapp2.0\Id.Overview.Mvc.pdb
