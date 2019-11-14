@@ -44,6 +44,11 @@ namespace Id.Overview.Mvc
                 options.Password.RequireLowercase = true;
                 options.Password.RequireNonAlphanumeric = true;
 
+                //signin 
+                options.SignIn.RequireConfirmedEmail = false;
+                options.SignIn.RequireConfirmedPhoneNumber = false;
+                
+
             })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
