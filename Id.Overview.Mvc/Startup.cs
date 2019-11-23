@@ -57,6 +57,21 @@ namespace Id.Overview.Mvc
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.AccessDeniedPath = "/Account/AccessDenied";
+                options.Cookie.HttpOnly = true;
+                options.Cookie.Name = ".AspNetCore.Cookies";
+                options.Cookie.SameSite = Microsoft.AspNetCore.Http.SameSiteMode.Lax;
+                options.Cookie.SecurePolicy = Microsoft.AspNetCore.Http.CookieSecurePolicy.SameAsRequest;
+                options.ExpireTimeSpan = TimeSpan.FromDays(14);
+                options.LoginPath = "/Account/Login";
+                options.LogoutPath = "/Account/Logout";
+                options.ReturnUrlParameter = "ReturnUrl";
+                options.SlidingExpiration = true;
+
+            });
+
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
 
